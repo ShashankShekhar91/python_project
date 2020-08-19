@@ -1,0 +1,22 @@
+{
+  "session1": {
+    "total_word_count": 20,
+    "repetition_count": 5,
+    "prolongation_count": 2,
+    "total_time_in_sec": 60,
+    "repetition_time_in_sec": 15,
+    "prolongation_time_in_sec": 10,
+    "silence_in_sec": 5,
+       "": 5,
+        "silence_in_sec": 5
+  },
+  "session2": {
+    "total_word_count": 20,
+    "repetition_count": 5,
+    "prolongation_count": 2,
+    "total_time_in_sec": 60,
+    "repetition_time_in_sec": 15,
+    "prolongation_time_in_sec": 10,
+    "silence_in_sec": 5
+  }
+}

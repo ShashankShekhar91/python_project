@@ -1,0 +1,32 @@
+{
+  "prolongation_severity": {
+    "0": 4
+  },
+  "repetition_severity": {
+    "0": 4
+  },
+  "Improvement": {
+    "0": 2
+  },
+  "read_easy": {
+    "0": 1
+  },
+  "read_medium": {
+    "0": 0
+  },
+  "read_hard": {
+    "0": 0
+  },
+  "pic_desc_easy": {
+    "0": 1
+  },
+  "pic_desc_medium": {
+    "0": 0
+  },
+  "pic_desc_hard": {
+    "0": 0
+  },
+  "questions": {
+    "0": 0
+  }
+}
